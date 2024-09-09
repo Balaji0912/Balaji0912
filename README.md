@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balaji0912
-- 👀 I’m interested in blockchain development .
-- 🌱 I’m currently learning fullstack blockchain development.
-- 💞️ I’m looking for an platform to develope blockchain knowledge. 
+- 👀 I’m interested in Automation Testing .
+- 🌱 I’m currently learning Selenium webdrivers with JAVA.
+- 💞️ I’m looking for an platform to develope Automation testing knowledge. 
 - 📫 Reach me through +91 6374773703/ balaji091299@gmail.com
 
 <!---

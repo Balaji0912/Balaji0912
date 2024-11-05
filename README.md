@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balaji0912
-- 👀 I’m interested in Automation Testing .
-- 🌱 I’m currently learning Selenium webdrivers with JAVA.
-- 💞️ I’m looking for an platform to develope Automation testing knowledge. 
+- 👀 I’m interested in Automation web and mobile Testing .
+- 🌱 I’m currently learning Automating webdrivers testing with Selenium JAVA.
+- 💞️ I’m looking for an platform to develope my Automation testing knowledge in Mobile application Testing. 
 - 📫 Reach me through +91 6374773703/ balaji091299@gmail.com
 
 <!---
